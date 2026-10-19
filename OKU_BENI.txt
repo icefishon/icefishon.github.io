@@ -1,0 +1,18 @@
+Fish on Ice! web sitesi (GitHub Pages)
+
+Adres:              https://icefishon.github.io/
+Gizlilik politikası: https://icefishon.github.io/privacy.html   (Play Console'a bu yazılır)
+app-ads.txt:        https://icefishon.github.io/app-ads.txt     (reklam ağlarının satırları sonra eklenecek)
+
+Yayınlama (bir kere, ~5 dk):
+1) github.com'a icefishon hesabıyla gir. Sağ üstte "+" > "New repository".
+2) Repository name: icefishon.github.io   (tam olarak bu; başka ad olursa adres değişir)
+   Public seçili olsun. "Create repository".
+3) Açılan sayfada "uploading an existing file" bağlantısına tıkla.
+   Bu klasördeki dosyaların HEPSİNİ (OKU_BENI.txt hariç olabilir) sürükleyip bırak.
+   Klasörün kendisini değil, içindeki dosyaları bırak: index.html deponun en üstünde durmalı.
+4) Aşağıda "Commit changes".
+5) Settings > Pages: "Branch: main" ve "/ (root)" seçili değilse seç, Save.
+6) 1-5 dakika sonra https://icefishon.github.io/ açılır.
+
+Değiştirmek istersen: depoda dosyaya tıkla > kalem simgesi > düzenle > Commit changes.

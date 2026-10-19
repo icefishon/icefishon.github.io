@@ -1,0 +1,3 @@
+# Fish on Ice! — app-ads.txt
+# Reklam ağları (LevelPlay ve eklenen ağlar) kurulunca onların verdiği satırlar buraya eklenecek.
+# Bu dosya sitenin kök dizininde durmalı: https://icefishon.github.io/app-ads.txt
